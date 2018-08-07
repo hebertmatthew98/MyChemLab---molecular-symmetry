@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1527396229 source:c:\users\matthew\desktop\college\projects\lineartest2\main.cpp
+	<iostream>
+	"lineartest.h"
+	"Linearstuff.h"
+
+1527337012 source:c:\users\matthew\desktop\college\projects\lineartest2\lineartest.cpp
+	"lineartest.h"
+	<cmath>
+	<iostream>
+
+1527395586 c:\users\matthew\desktop\college\projects\lineartest2\lineartest.h
+
+1527396229 source:c:\users\matthew\desktop\college\projects\lineartest2\linearstuff.cpp
+	"Linearstuff.h"
+	"lineartest.h"
+
+1527733991 c:\users\matthew\desktop\college\projects\lineartest2\linearstuff.h
+	<string>
+
