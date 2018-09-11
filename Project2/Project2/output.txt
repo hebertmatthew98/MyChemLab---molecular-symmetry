@@ -1,0 +1,33 @@
+numAtoms: 4 numBonds: 3
+Atom 0 Axis 0 0 Atom 0 Axis 1 0 Atom 0 Axis 2 0.2525 N
+Atom 1 Axis 0 -0.4761 Atom 1 Axis 1 -0.8247 Atom 1 Axis 2 -0.0842 H
+Atom 2 Axis 0 -0.4761 Atom 2 Axis 1 0.8247 Atom 2 Axis 2 -0.0842 H
+Atom 3 Axis 0 0.9522 Atom 3 Axis 1 0 Atom 3 Axis 2 -0.0842 H
+
+
+
+After setOrigin
+atom: 0 axis: 0 0
+After setOrigin
+atom: 0 axis: 1 0
+After setOrigin
+atom: 0 axis: 2 0
+After setOrigin
+atom: 1 axis: 0 -0.4761
+After setOrigin
+atom: 1 axis: 1 -0.8247
+After setOrigin
+atom: 1 axis: 2 -0.3367
+After setOrigin
+atom: 2 axis: 0 -0.4761
+After setOrigin
+atom: 2 axis: 1 0.8247
+After setOrigin
+atom: 2 axis: 2 -0.3367
+After setOrigin
+atom: 3 axis: 0 0.9522
+After setOrigin
+atom: 3 axis: 1 0
+After setOrigin
+atom: 3 axis: 2 -0.3367
+Molecule is not linear
